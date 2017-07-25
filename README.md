@@ -4,15 +4,15 @@
   </tr>
   <tr>
 <td align=left>本页短网址：https://git.io/vQgT8<br/>
-◆翻墙永久网址：https://git.io/ogate （请收藏）<br/>
-本页如遇打不开，请复制上面网址到谷歌浏览器<br/>
-苹果用户请直接复制到苹果自带Safari浏览器打开<br/>
-中国网民必备最佳浏览器：谷歌浏览器（请安装）<br/>
-<a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a>
-<a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器windows版 </a><br/>
-<a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版</a>
+❤翻墙永久网址：https://git.io/ogate <br/>
+本页如屏蔽，请将网址输入谷歌浏览器<br/>
+苹果用户请输入网址到苹果浏览器打开<br/>
+网民必备浏览器：谷歌浏览器（请安装）<br/>
+<a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a><br/>
+<a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器电脑版 </a><br/>
+<a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版</a><br/>
 <a href="https://google-chrome.cn.uptodown.com/mac">◆谷歌浏览器Mac版</a><br/>
-国产浏览器监控网民、屏蔽网页、广告垃圾多，请卸载<br/>
+国产浏览器监控/屏蔽网页/广告多/请卸载<br/>
 </tr>
 <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
@@ -42,57 +42,57 @@
   </tr>
   <tr>
   <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F110%2F&from=wnel-zx">◆◆◆法轮大法明慧网◆◆◆</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F110%2F&from=wnel-zx">◆◆◆法轮大法明慧网◆◆◆</a><br/> 
   </tr>
   <tr>
 <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c803879&from=wnel-xw">◆动  态  网（适合手机界面）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c803879&from=wnel-xw">◆动  态  网（适合手机界面）</a><br/> 
   </tr>
   <tr>
 <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F220%2F&from=wnel-xw">◆动  态  网 （适合电脑界面）</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F220%2F&from=wnel-xw">◆动  态  网 （适合电脑界面）</a><br/>
   </tr>
   <tr>
 <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogNews&from=wnel-xw">◆网门头条◆汇聚全球最焦点资讯</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?ogNews&from=wnel-xw">◆网门头条◆汇聚全球最焦点资讯</a><br/>
    </tr>
   <tr>
       <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?name=http://140/&from=wnel-xw">◆ 大 纪 元 ◆全球最大的中文媒体</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?name=http://140/&from=wnel-xw">◆ 大 纪 元 ◆全球最大的中文媒体</a><br/>
    </tr>
   <tr>
       <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?name=http://130/&from=wnel-xw">◆ 新 唐 人 ◆全球最大的中文电视</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?name=http://130/&from=wnel-xw">◆ 新 唐 人 ◆全球最大的中文电视</a><br/>
    </tr>
   <tr>
     <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816850&from=wnel-xw">◆今日点击◆全球华语最热脱口秀</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816850&from=wnel-xw">◆今日点击◆全球华语最热脱口秀</a><br/>
     </td>
   </tr>
   <tr>
     <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816857&from=wnel-xw">◆文昭解读◆解析全球最热门时事</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816857&from=wnel-xw">◆文昭解读◆解析全球最热门时事</a><br/>
     </td>
   </tr>
   <tr>
     <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816860&from=wnel-xw">◆中国禁闻◆报道中国最深度内幕</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816860&from=wnel-xw">◆中国禁闻◆报道中国最深度内幕</a><br/>
    </tr>
   <tr>
       <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816855&from=wnel-xw">◆环球直击◆透析最新的全球资讯</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816855&from=wnel-xw">◆环球直击◆透析最新的全球资讯</a><br/>
    </tr>
   <tr>
       <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816479&from=wnel-xw">◆美国之音◆世界最大对外电视台 </a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816479&from=wnel-xw">◆美国之音◆世界最大对外电视台 </a><br/>
    </tr>
   <tr>
     <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816456&from=wnel-xw">◆希望之声◆中国24小时真实讯息</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816456&from=wnel-xw">◆希望之声◆中国24小时真实讯息</a><br/>
    </tr>
   <tr>
       <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816424&from=wnel-xw">◆自由亚洲◆听见亚洲真实的声音</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816424&from=wnel-xw">◆自由亚洲◆听见亚洲真实的声音</a><br/>
    </tr>
   <tr>
 <tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
@@ -121,11 +121,12 @@
   </tr>
   <tr>
   <td align=center>请尝试不同入口，进入动态网址<br/>
-      <a target="_blank" href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel">入口</a>
-      <a target="_blank" href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=wnel">入口</a>
-      <a target="_blank" href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=wnel">入口</a><br/>
-      <a target="_blank" href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=wnel">入口</a>
-      <a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">入口</a><br/>
+      <a href="https://rawgit.com/onorm/up/master/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=wnel">入口</a><br/>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">入口</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
 苹果用户复制到自带浏览器打开<br/>
@@ -158,15 +159,15 @@
 网门桌面版 https://git.io/ogatew<br/>
 谷歌桌面版 https://git.io/ogatecw<br/>
 ◆全球最人气翻墙软件<br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816767_1_1&from=wnel">◆无界浏览（安卓版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816767_2_1&from=wnel">◆无界浏览（电脑版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816730&from=wnel">◆新唐人电视（安卓版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816731&from=wnel">◆爱博电视（电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816767_1_1&from=wnel">◆无界浏览（安卓版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816767_2_1&from=wnel">◆无界浏览（电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816730&from=wnel">◆新唐人电视（安卓版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816731&from=wnel">◆爱博电视（电脑版）</a><br/> 
 ◆全球最佳浏览器——大陆网民必备<br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816725&from=wnel">◆谷歌浏览器（安卓版）</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816726&from=wnel">◆谷歌浏览器（电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816725&from=wnel">◆谷歌浏览器（安卓版）</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816726&from=wnel">◆谷歌浏览器（电脑版）</a><br/> 
 <a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
@@ -180,17 +181,17 @@ https://git.io/vQowA<br/>
 无界安卓版 https://git.io/v6836 <br/>
 无界电脑版 https://git.io/vEJlj <br/>
 ◆翻墙小技巧：<br/>
-II苹果用户，用自带浏览器收藏https://git.io/ogate 翻墙直连全球真实资讯<br/>
+II苹果用户，用自带浏览器收藏https://git.io/ogate 翻墙全球真实资讯<br/>
 II苹果用户最佳免费翻墙大全：https://git.io/vQo02<br/>
-II安卓、电脑用户，用谷歌浏览器收藏 https://git.io/ogate 随时浏览全球真实资讯<br/>
+II安卓、电脑用户，用谷歌浏览器收藏 https://git.io/ogate 浏览全球真实资讯<br/>
 II安卓、电脑用户，安装并成功打开无界或自由门后，可在软件内打开推特、脸书、youtube等<br/>
-II安卓、电脑用户，安装并成功打开无界或自由门后，可用谷歌浏览器打开全球任意网站<br/>
+II安卓、电脑用户，成功打开无界或自由门后，可用谷歌浏览器打开全球任意网站<br/>
 II更多翻墙大全 https://git.io/jww<br/>
  </tr>
   <tr>
   <td align=left>全球其他最热门网站，请收藏<br/>
 ◆大陆网民请使用谷歌浏览器<br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆谷歌浏览器（安卓版、电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?ogTool&from=wnel">◆谷歌浏览器（安卓版、电脑版）</a><br/> 
 <a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
